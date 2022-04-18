@@ -8,3 +8,9 @@ table{
     margin-left: auto;
     margin-right: auto;
 }
+thead{
+    height: 2rem;
+    text-align: left;
+    color: #1db954;
+    background-color: #d3d3d3;
+}

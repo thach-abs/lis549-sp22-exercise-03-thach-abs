@@ -15,3 +15,7 @@ thead{
     color: #1db954;
     background-color: #d3d3d3;
 }
+th, td{
+    padding:.5em;
+}
+

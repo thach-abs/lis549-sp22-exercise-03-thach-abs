@@ -20,3 +20,8 @@ th, td{
 }
 
 tr:nth-child(even) {background-color: #eee;}
+
+img{
+    height: 100px;
+    width: 100px;
+}

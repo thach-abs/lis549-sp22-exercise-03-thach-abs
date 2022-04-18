@@ -19,3 +19,4 @@ th, td{
     padding:.5em;
 }
 
+tr:nth-child(even) {background-color: #eee;}
